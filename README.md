@@ -1,5 +1,7 @@
 <h1>Princípios de design de software: S.O.L.I.D.</h1>
 
+<h3><a href="https://www.linkedin.com/pulse/princ%25C3%25ADpios-de-design-software-solid-vanderlei-kleinschmidt-klawe">Texto publicado originalmente no Linkedin.</a></h3>
+
 <p>Quando falamos em princípios de design de software estamos nos referindo à ideia por trás da orientação a objetos caracterizada pela escrita de um código limpo, organizado, flexível e fácil de manter. É nesse ponto que entra o S.O.L.I.D., um acrônimo que representa os cinco princípios que veremos a seguir.</p>
 
 <p><strong>O Princípio da Responsabilidade Única (SRP) </strong>é fundamental no desenvolvimento de software. Ele determina que cada classe deve ter apenas uma responsabilidade bem definida, evitando que seja sobrecarregada com múltiplas funcionalidades. Seguir este princípio contribui para um código mais coeso, compreensível e fácil de manter.
